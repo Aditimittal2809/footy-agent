@@ -10,7 +10,7 @@ For a beginner, the project works as an interactive football explainer: a user c
 
 For a more analytical user, the system acts like a lightweight football research assistant. It can surface long-term league trends, compare competitions, inspect data quality, identify relationships between match metrics, and turn those findings into a concrete hypothesis with supporting evidence.
 
-For a betting-oriented user, the Betting Room extends that workflow into decision support. It retrieves current and historical match data, estimates probabilities with Poisson-family models, compares those probabilities against bookmaker odds when available, and produces a betting thesis that highlights whether the model sees a meaningful edge or only a weak lean.
+For a betting-oriented users, the Betting Room extends that workflow into decision support. It retrieves current and historical match data, estimates probabilities with Poisson-family models, compares those probabilities against bookmaker odds when available, and produces a betting thesis that highlights whether the model sees a meaningful edge or only a weak lean.
 
 In short, the project is meant to cover three practical use cases in one system:
 
